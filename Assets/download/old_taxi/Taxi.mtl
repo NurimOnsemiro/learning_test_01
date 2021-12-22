@@ -1,0 +1,30 @@
+#
+# Taxi.mtl
+#
+
+newmtl Model001_Material001
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd C:\Stuff\CC\Models\Cars\BAK - Taxi/Taxi_V2_D_3.png
+
+newmtl Model001_Material002
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd C:\Stuff\CC\Models\Cars\BAK - Taxi/TAXI_Interior_D_6.png
+
+newmtl Model001_Material003
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd C:\Stuff\CC\Models\Cars\BAK - Taxi/Taxi_V2_Glass_D_5.png
